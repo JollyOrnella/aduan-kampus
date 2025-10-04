@@ -1,0 +1,13 @@
+/.venv
+/blueprints
+/config.py
+/extensions.py
+/instance
+/models.py
+/README.md
+/requirements.txt
+/roles.py
+/services
+/static
+/templates
+/__pycache__
